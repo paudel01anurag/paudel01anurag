@@ -50,10 +50,13 @@ support either.
 **[Threat Hunting Lab](https://github.com/paudel01anurag/threat-hunting-lab)** — KQL in
 Microsoft Sentinel and Defender for Endpoint
 
-Three completed hunts on the LogN Pacific Cyber Range, 98 flags and 9,300 points, with no
-alerts, dashboards or starting indicators. Phishing through to domain compromise and source
-code theft; MFA fatigue through to business email compromise and attempted wire fraud;
-exposed RDP through to malware concealed inside a legitimate Windows service.
+Eight completed hunts on the LogN Pacific and Cyber Range platforms, 245 flags and 24,090
+points, each worked from a brief alone with no dashboards or starting indicators. They span
+phishing to domain compromise and source-code theft, MFA fatigue to business email
+compromise and wire fraud, malware hidden inside legitimate services, two intrusions driven
+by an autonomous AI agent, a double-extortion ransomware crew that took a Windows domain
+overnight, and a malware-free state-sponsored APT found only because a proactive hunt went
+looking.
 
 Written up as method rather than answers, so nothing here spoils a live hunt.
 
